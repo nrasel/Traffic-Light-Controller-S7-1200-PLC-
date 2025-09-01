@@ -54,7 +54,7 @@ The system follows a **3-step cycle**:
 ## 🚀 How to Run
     Clone the repository
             git clone https://github.com/nrasel/Traffic-Light-Controller-S7-1200-PLC-.git
-            cd Simatic-Manager-HMI-WinCC-integration
+            cd Traffic-Light-Controller-S7-1200-PLC
 1. Open project in **TIA Portal**  
 2. Download program to **S7-1200 CPU 1212C**  
 3. Deploy HMI screens to **TP700 Comfort Panel**  
