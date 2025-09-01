@@ -7,8 +7,6 @@ The system simulates a real-world traffic junction where **North, West, and East
 The goal of this project is to model the safe and efficient switching of traffic signals with a defined cycle of **green (15 sec)**, **yellow (5 sec)**, and **red** lights.
 
 ---
-## 📷 Project View
-![Traffic Light Interface](https://github.com/nrasel/Traffic-Light-Controller-S7-1200-PLC-/blob/94b85c9b68ba0877c091dba11bfa56e175933fa2/View%20Of%20the%20Project.PNG)
 
 ## 🛠 Hardware Used
 - **PLC**: Siemens **S7-1200 CPU 1212C DC/DC/DC**  
@@ -62,6 +60,9 @@ The system follows a **3-step cycle**:
 3. Deploy HMI screens to **TP700 Comfort Panel**  
 4. Observe traffic lights switching automatically based on logic
 
-
 ---
+
+## 📷 Project View
+![Traffic Light Interface](https://github.com/nrasel/Traffic-Light-Controller-S7-1200-PLC-/blob/94b85c9b68ba0877c091dba11bfa56e175933fa2/View%20Of%20the%20Project.PNG)
+
 
