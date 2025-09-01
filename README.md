@@ -8,7 +8,7 @@ The goal of this project is to model the safe and efficient switching of traffic
 
 ---
 ## 📷 Project View
-![Traffic Light Interface](cap2.PNG)
+![Traffic Light Interface]([cap2.PNG](https://github.com/nrasel/Traffic-Light-Controller-S7-1200-PLC-/blob/main/View%20Of%20the%20Project.PNG?raw=true))
 
 ## 🛠 Hardware Used
 - **PLC**: Siemens **S7-1200 CPU 1212C DC/DC/DC**  
@@ -48,7 +48,7 @@ The system follows a **3-step cycle**:
 ---
 
 ## 📂 Project Files
-- **PLC Program**: Written in **LAD/FBD in TIA Portal**  
+- **PLC Program**: Written in **LAD in TIA Portal**  
 - **HMI Screens**: Designed in **WinCC Comfort**  
 
 ---
@@ -62,7 +62,6 @@ The system follows a **3-step cycle**:
 3. Deploy HMI screens to **TP700 Comfort Panel**  
 4. Observe traffic lights switching automatically based on logic
 
-       
 
 ---
 
